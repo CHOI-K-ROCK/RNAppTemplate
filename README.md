@@ -1,3 +1,2 @@
-# 이지땡스 - Easy Thanks
-## 개요
- - React Native 를 기반으로 만들어진 감사 일기 앱입니다.
+### 개요
+ - React Native 기반 앱을 개발하기 위한 템플릿입니다.

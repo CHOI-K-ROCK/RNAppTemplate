@@ -74,9 +74,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.easythanksrn"
+    namespace "com.rnapptemplate"
     defaultConfig {
-        applicationId "com.easythanksrn"
+        applicationId "com.rnapptemplate"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

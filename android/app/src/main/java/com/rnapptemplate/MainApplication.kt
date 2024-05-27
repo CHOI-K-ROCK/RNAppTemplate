@@ -1,4 +1,4 @@
-package com.easythanksrn
+package com.rnapptemplate
 
 import android.app.Application
 import com.facebook.react.PackageList
